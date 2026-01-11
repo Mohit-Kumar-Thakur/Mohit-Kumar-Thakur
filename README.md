@@ -3,11 +3,6 @@ ECE undergrad @ Faculty of Technology, University of Delhi (Minor: AI/ML). I foc
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
-ECE undergrad @ Faculty of Technology, University of Delhi (Minor: AI/ML). I focus on:<br><br>Full-stack development: React, Express.js, MongoDB, Tailwind CSS<br><br>Machine Learning: Neural Networks, data analytics, applied ML systems<br><br>Problem solving: DSA, competitive programming (LeetCode active)<br><br>Projects include:<br><br>MedieGenie: AI-driven disease prediction system (ML + Neural Nets)<br><br>devNest: College community platform (MERN stack)<br><br>Movie Recommendation Engine: collaborative filtering-based recommender system<br><br>Currently exploring GenAI + ML-powered web applications.
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumarthakur/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitiit2005@gmail.com) 
 
 # 💻 Tech Stack:
