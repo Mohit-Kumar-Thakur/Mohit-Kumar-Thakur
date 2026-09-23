@@ -189,25 +189,22 @@ AI health companion predicting disease risk across **8 disease datasets** with R
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohit-Kumar-Thakur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kumar-Thakur&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohit-Kumar-Thakur&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Kumar-Thakur&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<details>
-<summary><b>🏅 GitHub Trophies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohit-Kumar-Thakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-</details>
 
 ---
 
